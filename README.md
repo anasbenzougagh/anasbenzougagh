@@ -1,4 +1,4 @@
- <h3>⛹🏼 Anas Benzougagh<h3>
+ <h1>⛹🏼 Anas Benzougagh<h1>
 
 
 **`Digital Craftsman (SDET/Creator/Videomaker)`**
