@@ -2,6 +2,8 @@
 
 
 **`Digital Craftsman (Software Automation Engineer in Test/Content Creator)`**
+
+Test Automation Engineer. Proficient in Java, Selenium, Appium, JDBC, TestNG, JUnit, RestAssured, and Postman. Committed to Quality Assurance Excellence and Ongoing Enhancement.
 <!--
 **anasbenzougagh/anasbenzougagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
