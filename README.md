@@ -1,6 +1,5 @@
  <h1>⛹🏼 Anas Benzougagh</h1>   
 
----
 **`Digital Craftsman (SDET/Creator/Videomaker)`**
 
 <p>Test Automation Engineer. Proficient in Java, Selenium, Appium, JDBC, TestNG, JUnit, RestAssured, and Postman. Committed to Quality Assurance Excellence and Ongoing Enhancement.</p>
@@ -30,4 +29,3 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
 <br />
-
